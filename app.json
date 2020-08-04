@@ -1,0 +1,11 @@
+{
+  "name": "Hughes_LWC",
+  "description": "Hughes_LWC Web App",
+  "keywords": [
+    "app-cloud"
+  ],
+  "repository": "https://github.com/devangLWC/intro-to-heroku",
+  "addons": [
+    "heroku-postgresql"
+  ]
+}
