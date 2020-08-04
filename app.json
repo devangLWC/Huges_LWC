@@ -4,7 +4,7 @@
   "keywords": [
     "app-cloud"
   ],
-  "repository": "https://github.com/devangLWC/intro-to-heroku",
+  "repository": "https://github.com/devangLWC/Huges_LWC",
   "addons": [
     "heroku-postgresql"
   ]
